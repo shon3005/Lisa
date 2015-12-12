@@ -1,0 +1,15 @@
+Manage Phone Number Routes: https://www.twilio.com/user/account/phone-numbers/
+
+Download links:
+NGROK: https://ngrok.com/
+NODE: https://nodejs.org/en/
+MONGODB: https://www.mongodb.org/
+
+References I used:
+https://www.twilio.com/docs/api/rest/message
+https://ngrok.com/docs#expose
+https://www.twilio.com/blog/2011/02/using-twilio-with-nodejs-by-dusty-candland-of-red27-consulting.html
+https://www.twilio.com/blog/2013/03/introducing-the-twilio-module-for-node-js.html
+https://www.airpair.com/javascript/posts/build-a-realtime-sms-call-center-with-data-mcfly-and-twilio
+http://twilio.github.io/twilio-node/#restapi
+http://stackoverflow.com/questions/19846462/storing-json-data-from-node-js-to-mongodb
